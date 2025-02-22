@@ -8,7 +8,7 @@ The system supports **five types of vehicles**, each with different properties a
 - [**yarinzaroog**](https://github.com/yarinzaroog)
   
 ## 👨‍🏫 Lecturer  
-[**Guy Ronen**](https://guyronen.net/)
+- [**Guy Ronen**](https://guyronen.net/)
 
 ## 🛠 Technologies  
 - **C#**  
